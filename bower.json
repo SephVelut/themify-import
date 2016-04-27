@@ -1,0 +1,20 @@
+{
+  "name": "themify-import",
+  "homepage": "https://github.com/SephVelut/dash-sidemenu",
+  "authors": [
+    "seph <sephvelut@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "themify-icons": "^0.1.0"
+  }
+}
